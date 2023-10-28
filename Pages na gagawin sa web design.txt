@@ -1,0 +1,15 @@
+Para sa activity sa Web Design
+
+5 webpages
+1 - homepage
+2 - gallery/product
+3 - about us
+4 - contact us
+5 - kayo na bahala kung ano ilalagay nyo
+
+Graphic Design:
+Chess board - ( 900 x 900)
+Prvovinces - (700 x 500)
+
+for resolution background
+1024 * 768
